@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int a = 100000000;
+    int a = 100000;
     bool sort = true;
 
     if (sort == true) {
