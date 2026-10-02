@@ -8,8 +8,8 @@ int main() {
     if (sort == true) {
         cout << "Набор до " << a << "/n";
 
+        int par = 0;
         for (int i = 0; i < a; i++) {
-            int par = 0;
             par += i;
             cout << par << "\n";
         }
